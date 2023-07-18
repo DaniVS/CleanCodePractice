@@ -37,7 +37,7 @@
 /.idea/sonarlint/securityhotspotstore/e/7/e7cc2794b36956f50c7b7b508f399f7b9eafaeb2
 /lib/junit-3.8.2.jar
 /lib/junit-3.8.2-javadoc.jar
-/out/production/VideoStore/Customer.class
+/out/production/VideoStore/Statement.class
 /out/production/VideoStore/Movie.class
 /out/production/VideoStore/Rental.class
 /out/production/VideoStore/VideoStoreTest.class
