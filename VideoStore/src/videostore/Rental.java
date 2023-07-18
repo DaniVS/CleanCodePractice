@@ -1,7 +1,5 @@
 package videostore;
 
-import videostore.Movie;
-
 public class Rental {
     private Movie movie;
     private int daysRented;
@@ -11,19 +9,15 @@ public class Rental {
         this.daysRented = daysRented;
     }
 
-    double determineAmount(){
+    double determineAmount() {
         return movie.determineAmount(daysRented);
     }
 
-    public Movie getMovie() {
-        return movie;
-    }
-
-    public String getTitle() {
+    String getTitle() {
         return movie.getTitle();
     }
 
-    int determineFrequentRenterPoints(){
+    int determineFrequentRenterPoints() {
         return movie.determineFrequentRenterPoints(daysRented);
     }
 
