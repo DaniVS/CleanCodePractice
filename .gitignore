@@ -62,3 +62,12 @@
 /.idea/sonarlint/securityhotspotstore/4/4/447554e09e225cc319c7bc9f07b81029008673d3
 /.idea/sonarlint/issuestore/c/c/cc297f5b614c8b5955a0e56ef0c25481abed244c
 /.idea/sonarlint/securityhotspotstore/c/c/cc297f5b614c8b5955a0e56ef0c25481abed244c
+/out/production/Stack/stack/BoundedStack$ZeroCapacityStack.class
+/out/production/Stack/stack/BoundedStack.class
+/out/production/Stack/stack/Stack$Empty.class
+/out/production/Stack/stack/Stack$IllegalCapacity.class
+/out/production/Stack/stack/Stack$Overflow.class
+/out/production/Stack/stack/Stack$Underflow.class
+/out/production/Stack/stack/Stack.class
+/Stack/Stack.iml
+/out/production/Stack/stack/StackTest.class
